@@ -12,7 +12,7 @@
 
 ### 3\. James Hughes
 
-- Two Women - Suicide in Korean culture.
+- Two Women - Suicide in Korean culture
 - <http://hanalee.me>
 - james@virtualjames.com
 
@@ -73,17 +73,17 @@
 
 ### 3\. Adam Carnes
 
-- <http://vurv.co>
 - "Flow Factory"
+- <http://vurv.co>
 - adam.carnes000@gmail.com
 
 ### 4\. Molly Schwartz
 
-- mchwartz@metro.org
-- <https://twitter.com/mollyfication>
 - "Designing a Media Studio @599"
+- <https://twitter.com/mollyfication>
 - <http://metro.org/fellows>
 - <https://twitter.com/LibBytegeist> - Podcast
+- mchwartz@metro.org
 
 ### 5\. David Sullivan
 
@@ -98,9 +98,9 @@
 
 - "Woah Board"
 - <https://www.kickstarter.com/projects/2055918540/whoa-board-dream-with-touch-sensing-el-wire-panels>
-- josh@foolishproducts.com
 - <http://foolzone.com>
 - <http://woahboard.com>
+- josh@foolishproducts.com
 
 ### 8\. Jason Toy
 
@@ -116,7 +116,7 @@
 
 - <http://www.daveandgabe.care/>
 - <https://www.instagram.com/daveandgabe/>
-- <dave@daveandgabe.care>
+- dave@daveandgabe.care
 
 ### 11\. Michael Hill
 

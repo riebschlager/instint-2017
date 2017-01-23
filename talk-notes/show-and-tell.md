@@ -2,104 +2,124 @@
 
 ## Round 1 8:30
 
-##### 1. Justin Gitlin
+### 1\. Justin Gitlin
 
-Dance kinect thing, look it up.
+- <http://cacheflowe.com/>
 
-##### 2. Sonia Li
+### 2\. Sonia Li
 
-Dementia & rorschack.
-Uses MAX/MSP. "Movement MSE" "multiple sensory environments"
+- <http://www.sonialidesigns.com/>
 
-##### 3. James Hughes
+### 3\. James Hughes
 
-Two Women - Suicide in Korean culture.
-<http://hanalee.me> james@virtualjames.com
+- Two Women - Suicide in Korean culture.
+- <http://hanalee.me>
+- james@virtualjames.com
 
-##### 4. Chang Liu
+### 4\. Chang Liu
 
-<http://liuchang.work> mliuchang@gmail.com
-ITP
-Hibanana
-book: pictures & tears - james elkins
+- <http://liuchang.work>
+- mliuchang@gmail.com
+- Book recommendation: Pictures & Tears - James Elkins
 
-##### 5. David Maples
+### 5\. David Maples
 
-<dmaples@tulane.edu>
-"transcending transparency" - tulane school of architecture
-"glass farm" <http://arcspace.com>
-"high line 23" <http://designboom.com>
+- <dmaples@tulane.edu>
+- "Transcending Transparency" - Tulane School of Architecture
 
-##### 6. Jeffrey Bryant
+### 6\. Jeffrey Bryant
 
-"ecco screen"
-<http://eccoscreen.xyz>
-jjjj@eccoscreen.xyz
+- "ecco screen"
+- <http://eccoscreen.xyz>
+- jjjj@eccoscreen.xyz
 
-##### 7. Jessie Contour
+### 7\. Jessie Contour
 
-museum of natural history
-"creatures" student project at parsons
-<jessiecontour.com>
-@contourcontrast (ig/twitter)
+- "Creatures" student project at Parsons
+- <http://jessiecontour.com>
+- <https://www.instagram.com/contourcontrast/>
+- <https://twitter.com/contourcontrast/>
 
-##### 8. Chris Jordan
+### 8\. Chris Jordan
 
-"Light and Time"
-<http://www.seej.net>
+- "Light and Time"
+- <http://www.seej.net>
 
-##### 9. Victoria Gibson
+### 9\. Victoria Gibson
 
-<http://vixmedia.ca>
+- <http://vixmedia.ca>
+- "Girl Can Dream"
 
-"Girl Can Dream"
+### 10\. David Wicks
 
-##### 10. David Wicks
+- <http://sansumbrella.com>
+- <https://twitter.com/sansumbrella>
 
-<http://sansumbrella.com>
-@sansumbrella
+### 11\. Chris Riebschlager
 
-##### 11. Chris Riebschlager
-
-<http://the816.com>
+- <http://the816.com>
 
 ## Round 2 9:30
 
-##### 1. Si Ping Lim
+### 1\. Si Ping Lim
 
-<http://www.handson.sg>
+- <http://www.handson.sg>
 
-##### 2. Yves Peitzner
+### 2\. Yves Peitzner
 
-"Distorted Vanity"
+- "Distorted Vanity"
+- <http://yvespeitzner.com>
 
-<http://yvespeitzner.com>
+### 3\. Adam Carnes
 
-##### 3. Adam Carnes
+- <http://vurv.co>
+- "Flow Factory"
+- adam.carnes000@gmail.com
 
-<http://vurv.co>
+### 4\. Molly Schwartz
 
-"Flow Factory"
+- mchwartz@metro.org
+- <https://twitter.com/mollyfication>
+- "Designing a Media Studio @599"
+- <http://metro.org/fellows>
+- <https://twitter.com/LibBytegeist> - Podcast
 
-adam.carnes000@gmail.com
+### 5\. David Sullivan
 
-##### 4. Molly Schwartz
+- <http://swampmonster.org>
+- <http://courtneyegan.net>
 
-mchwartz@metro.org @mollyfication
+### 6\. Jingying Jiang
 
-"designing a media studio @599"
+- <http://ericjiang.io>
 
-<http://metro.org/fellows>
+### 7\. Josh Vekhter
 
-@LibBytegeist - podcast
+- "Woah Board"
+- <https://www.kickstarter.com/projects/2055918540/whoa-board-dream-with-touch-sensing-el-wire-panels>
+- josh@foolishproducts.com
+- <http://foolzone.com>
+- <http://woahboard.com>
 
-##### 5. David Sullivan
+### 8\. Jason Toy
 
+- <http://jtoy.net>
+- <https://twitter.com/jtoy>
+- jtoy@jtoy.net
 
+### 9\. Laurie Frick
 
-##### 6. Jingying Jiang
-##### 7. Josh Vekhter
-##### 8. Jason Toy
-##### 9. Laurie Frick
-##### 10. Dave Rife
-##### 11. Michael Hill
+- <http://www.lauriefrick.com>
+
+### 10\. Dave Rife
+
+- <http://www.daveandgabe.care/>
+- <https://www.instagram.com/daveandgabe/>
+- <dave@daveandgabe.care>
+
+### 11\. Michael Hill
+
+- <https://www.instagram.com/wildparadox/>
+- <https://twitter.com/wildparadox/>
+- <https://dotdotdash.io>
+- <http://wetdogstudios.com>

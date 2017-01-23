@@ -1,1 +1,25 @@
-# Creating Interactions with Machine Learning - Rebecca Fiebrink
+# Creating Interactions with Machine Learning - Dr. Rebecca Fiebrink
+
+- Goldsmiths, University of London
+- How do we support people's existing creative practice?
+- How do we expand people's creative capabilities?
+- Three steps to a sensor-based installation: Sense, Interpret, Produce Response
+- Interpretation is the difficult and annoying step.
+- Build new interactions from examples of human action and computer response.
+- Use supervised learning to infer relationships between human movement and appropriate sound/animation/etc.
+- Open Sound Control
+- The Wekinator
+- Anne Hege - _From the Waters_
+- Laetitia Sonami, Spring Spyre, NIME Keynote 2014
+- Machine learning can support the design and creation process
+- Rapid prototyping, hands-on evaluation, iterative refinement
+- Machine learning has benefits over coding
+- Machine learning can take advantage of embodied expertise and practices
+- Gesture and sound, not math and code
+- Machine learning can offer easy access to complexity, surprise and discovery
+- High-dimensional continuous mappings are often better than buttons and triggers
+- Serendipity is hard with complex code
+- Programming expertise should not be a pre-requisite for creating new interactions
+- Free MOOC on Kadenze
+- <http://www.wekinator.org>
+- <https://twitter.com/rebeccafiebrink>

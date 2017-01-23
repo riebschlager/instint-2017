@@ -1,5 +1,7 @@
 # Creating Interactions with Machine Learning - Dr. Rebecca Fiebrink
 
+- <http://www.wekinator.org>
+- <https://twitter.com/rebeccafiebrink>
 - Goldsmiths, University of London
 - How do we support people's existing creative practice?
 - How do we expand people's creative capabilities?
@@ -21,5 +23,3 @@
 - Serendipity is hard with complex code
 - Programming expertise should not be a pre-requisite for creating new interactions
 - Free MOOC on Kadenze
-- <http://www.wekinator.org>
-- <https://twitter.com/rebeccafiebrink>

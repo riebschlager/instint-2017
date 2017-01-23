@@ -1,6 +1,6 @@
 # Show and Tell
 
-## Round 1 8:30
+## Round 1 -- 8:30
 
 ### 1\. Justin Gitlin
 
@@ -59,7 +59,7 @@
 
 - <http://the816.com>
 
-## Round 2 9:30
+## Round 2 -- 9:30
 
 ### 1\. Si Ping Lim
 

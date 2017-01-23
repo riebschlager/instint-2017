@@ -23,3 +23,6 @@
 - Serendipity is hard with complex code
 - Programming expertise should not be a pre-requisite for creating new interactions
 - Free MOOC on Kadenze
+- <https://twitter.com/miguelelizalde/status/823597774793048064>
+- <https://twitter.com/BenParisot/status/823603902620823552>
+- 
